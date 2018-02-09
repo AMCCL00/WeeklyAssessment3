@@ -6,7 +6,5 @@ public class Main {
         /*
         1. Make an abstract class named Pet in this package.  Extend this class into Cat and Ferret.
          */
-
-
     }
 }

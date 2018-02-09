@@ -10,6 +10,7 @@ public class Main {
         2. Recursion should be used if they hit the default.
         3. Instantiate the switch class in this main method and run the method you created.
          */
-
+        Switch Method = new Switch();
+        Method.switchMethod();
     }
 }
